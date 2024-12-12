@@ -1,0 +1,13 @@
+#sec1{
+    background: url(./img/fondo-blur.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+
+    .container{
+        background: url(./img/fondo.jpg);
+        background-size: cover;
+        background-position: center;
+        filter: drop-shadow(10px 10px 10px black);
+    }
+}
